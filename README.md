@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ignacio González</h1>
 <h3 align="center">FrontEnd Developer, FullStack still in training from Santiago, Chile</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=igonve&label=Profile%20views&color=0e75b6&style=flat" alt="igonve" /> </p>
 
 
 - 🔭 I’m currently working on **Next JS**
