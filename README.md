@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ignacio González</h1>
-<h3 align="center">FrontEnd Developer, FullStack still in training</h3>
+<h3 align="center">FrontEnd Developer, FullStack still in training from Santiago, Chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igonve&label=Profile%20views&color=0e75b6&style=flat" alt="igonve" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Next JS**
 
-- 🌱 I’m currently learning **Express.js MongoDB NextJS**
+- 🌱 I’m currently learning **Express.js MongoDB Next JS**
 
 - 👯 I’m looking to collaborate on **Rect proyects**
 
@@ -16,6 +16,14 @@
 - 💬 Ask me about **Vue.js, FrontEnd issues**
 
 - 📫 How to reach me **igonve.frontend@gmail.com**
+
+- Formation: 
+Bootcamp FullStack JavaScript Talento Digital Sence beca Corfo 2022
+Node JS course Gen8 Escalab Academy 2022
+React JS course Gen6 Escalab Academy 2021
+Bootcamp FrontEnd Developer Talento Digital Sence beca Corfo 2020-2021
+Licenciado en Ciencias Biológicas, Pontificia Universidad Católica de Chile. 2010-2015
+
 
 
 <h3 align="left">Languages and Tools:</h3>
