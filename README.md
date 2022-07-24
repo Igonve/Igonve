@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ignacio González</h1>
 <h3 align="center">FrontEnd Developer, FullStack still in training from Santiago, Chile</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=igonve&label=Profile%20views&color=0e75b6&style=flat" alt="igonve" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igonve" alt="igonve" /></a> </p>
 
 - 🔭 I’m currently working on **Next JS**
 
@@ -17,11 +14,16 @@
 
 - 📫 How to reach me **igonve.frontend@gmail.com**
 
-- Formation: 
+- Formation:
+ 
 Bootcamp FullStack JavaScript Talento Digital Sence beca Corfo 2022
+
 Node JS course Gen8 Escalab Academy 2022
+
 React JS course Gen6 Escalab Academy 2021
+
 Bootcamp FrontEnd Developer Talento Digital Sence beca Corfo 2020-2021
+
 Licenciado en Ciencias Biológicas, Pontificia Universidad Católica de Chile. 2010-2015
 
 
