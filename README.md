@@ -25,7 +25,7 @@ React JS course Gen6 Escalab Academy 2021
 
 Bootcamp FrontEnd Developer Talento Digital Sence Corfo 2020-2021
 
-Licenciado en Ciencias Biológicas, Pontificia Universidad Católica de Chile. 2010-2015
+Licenciado en Ciencias Biológicas, Pontificia Universidad Católica de Chile. 2008-2013
 
 
 
